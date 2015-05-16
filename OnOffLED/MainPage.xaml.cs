@@ -30,7 +30,6 @@ namespace OnOffLED
             {
                 pin.Write(GpioPinValue.High);
 
-
             }
         }
 
