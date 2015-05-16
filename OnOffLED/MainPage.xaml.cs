@@ -12,7 +12,7 @@ namespace OnOffLED
     public sealed partial class MainPage : Page
     {
         private GpioPin pin;
-        private const int LED_PIN = 27;
+        private const int LED_PIN = 27;//
         public MainPage()
         {
             this.InitializeComponent();
